@@ -3,9 +3,7 @@ Web Developer with experience in:
 - Laravel
 - Wordpress Theme and Plugin development
 
-My web development agency is https://coolstreamwebtech.com
-
-Contact macky@coolstreamwebtech.com
+Contact macky@mackym.co.uk
 
 <!---
 mackarias/mackarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
